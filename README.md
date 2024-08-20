@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siya Khetan</h1>
 <h3 align="center">Currently pursuing B.Tech from IGDTUW with ECE-AI branch.</h3>
-<img align="left "alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggxf0Bt4g0VH0mfmC8TjHz5w2sfJp78WPjw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyakhetan&label=Profile%20views&color=0e75b6&style=flat" alt="siyakhetan" /> </p>
 
