@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *siyakhetan35@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tNwMwKQKVFOLvnQSTBxdUS12g-8fhNwy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y0XdqsNhFdIalq6gMFeWBYx3s2GMqf17/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
