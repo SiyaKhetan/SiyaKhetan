@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyakhetan&label=Profile%20views&color=0e75b6&style=flat" alt="siyakhetan" /> </p>
 
-- 🔭 I’m currently working on [Skin care](https://drive.google.com/file/d/11Et23x2Gr7FIfYQ7rallhCHVHvEQiNP3/view?usp=sharing)
+- 🔭 I’m currently working on [Skin care](https://github.com/SiyaKhetan/skin-care-tonic-recommender)
 
 - 🌱 I’m currently learning *ML,DL,DSA in cpp*
 
 - 📫 How to reach me *siyakhetan35@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y0XdqsNhFdIalq6gMFeWBYx3s2GMqf17/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mM5mZID8ZKys2Z1VX7Xlm18vTsWwRTO-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
